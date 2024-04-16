@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SWL Bank accounts related docker APIs "
+  message: "Welcome to SWL Bank accounts related local APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@eazybank.com"
