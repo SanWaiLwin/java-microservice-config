@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+loans:
   message: "Welcome to SWL Bank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
