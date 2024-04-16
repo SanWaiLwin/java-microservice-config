@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SWL Bank accounts related Production APIs "
+  message: "Welcome to SWL Bank accounts related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}74adf8490a4e93bcaf0f4f87ba33f546de23c0f2db6506ca2d43b00805b1b978f4a0be7f819a69de344f7eb408530b0c"
